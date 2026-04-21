@@ -1,0 +1,1 @@
+A simple Python authentication system using SQLite. Supports user registration and login with salted SHA-256 password hashing. Demonstrates secure password storage and basic authentication flow in a lightweight, local database setup. Ideal for learning security fundamentals.
